@@ -1,0 +1,39 @@
+p {
+    font-size: 24px;
+    color: green;
+    background-color: purple;
+    font-weight: 700;
+}
+
+#p-first {
+    font-size: 32px;
+    color: crimson;
+    font-weight: bold;
+}
+
+.color-green {
+    color: green;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    border: 5px solid purple;
+    padding: 24px;
+    margin: 24px;
+}
+
+.color-purple {
+    color: purple;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.background-container {
+    background-color: black;
+}
+
+.color-orange {
+    color: orange;
+}
